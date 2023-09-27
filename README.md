@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>Centralização</title>
 </head>
 <body>
    <center><h3>Essa página aparecerá centralizada na página.</h3></center> 
